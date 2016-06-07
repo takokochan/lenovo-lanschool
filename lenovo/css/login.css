@@ -1,0 +1,21 @@
+body{background: #d6d6d6;margin: 0;padding: 0;}
+
+.headImg{width: 180px;height: 26px;margin: 0 auto;}
+.headImg img{ width: 180px;height: 30px;}
+
+.content{ width: 360px;height: 526px; margin: 0 auto; -webkit-box-shadow: 1px 1px 10px;  -moz-box-shadow: 1px 1px 10px;  box-shadow: 1px 1px 10px;}
+.mast{width: 360px;height: 32px;margin: 0 auto;margin-top: 36px;}
+.mast .blue{width: 90px;height: 100%; background:#00b8e5;float: left;}
+.mast .purple{width: 90px;height: 100%; background:#8140bd;float: left;}
+.mast .red{width: 90px;height: 100%; background:#e23b00;float: left;}
+.mast .orange{width: 90px;height: 100%; background:#f7941d;float: left;}
+
+.ipt{width: 360px;height: 495px;background: url(../images/hexellence_@2X.png) repeat;margin: 0 auto;border-radius: 0 0 4px 4px;}
+.ipt #username,.ipt #password{width: 180px;height: 30px;margin-left: 92px;margin-top: 37px;font-size: 13px;line-height: 13px;text-indent: 2em;}
+.ipt #login{width: 90px;height: 38px;margin-left: 135px;margin-top: 37px;background: #04b1dd;border: 0px;color: #fff;font-size: 14px;cursor: pointer;}
+.ipt #resetting{width: 160px;height: 30px;background: #3b3b3b;border-radius: 5px;border: 0;color: #969696;margin-left: 100px;margin-top: 26px;cursor: pointer;}
+
+.footer{width: 100%;height: 42px;background: #00b8e5;margin-top: 35px;}
+.footer span{color: #fff;line-height: 42px;font-size: 11px;}
+.footer .left{margin-left: 20px;}
+.footer .right{float: right; margin-right:20px;}

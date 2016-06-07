@@ -1,0 +1,38 @@
+.nav{background: #d8d8d8;}
+.navhead{height: 60px;width: 100%;float: left;background:url(../images/pattern_white.png); border-bottom:1px solid #d8d8d8 }
+.navhead > .container > img{float: left;width: 340px;height: 50px;margin-top: 3px;}
+.navhead ul {margin-left: 105px;}
+.navhead ul,.navhead ul li{float: left;line-height: 60px;}
+.navhead ul li a{color: #555;margin-left: 15px;font-size: 13px;}
+.navhead ul li a:hover{color: #5bc0de;text-decoration: none;}
+.navhead .lastli{margin-left: 18px; }
+.navhead #userlogin{width: 90px;height: 30px;margin-top:15px;margin-left: 15px;border: 2px solid #0067b2;color: #0067b2; }
+
+.bannerLeft{float: left;margin-top: 30px;margin-left: 20px;}
+.bannerRight{margin-top: 90px;float: left;}
+.banner h2{font-size: 20px; margin-top: 40px; margin-left: 40px;font-style: normal;}
+
+.bluebanner{margin-top: 70px; height: 263px;background: #00affe;color: #fff;text-align: center;padding-top: 45px;}
+.bluebanner p{font-size: 16px;}
+.bluebanner input{width: 250px;height: 40px;background: #00affe;border: 1px solid #fff;margin-top: 25px;margin-left: 15px;}
+.bluebanner input:hover{background: #1ab7fe;}
+
+.newmenu{height: 65px;background: #efefef;}
+.newmenu ul{margin-left: 30px;}
+.newmenu li{list-style: none;float: left;margin-left: 30px;line-height: 65px;}
+.newmenu li a{color: #000;}
+
+.information{padding-top: 30px;}
+.information .layer{width: 460px;height: 220px; float: left;margin-left: 40px;margin-top: 20px;}
+.information .layer img{float: left;margin-top: 25px; }
+.information .content{width: 399px; margin-left: 20px; float: left;}
+.information .content h2{font-size: 20px;color: #0067b2;}
+.information .content p{margin-top: 15px;color: #666;font-size: 16px;}
+.information .placeright{margin-left: 60px;}
+
+.blackebox{height:230px;background: #404042;padding-left: 420px;}
+.blackebox input{width: 250px;height: 50px;background: #404042;color: #fff;border: 1px solid #fff;margin-top: 77px;margin-left: 5px;}
+.blackebox input:hover{background: #44a9df;}
+
+.bluefooter{height: 158px;background:#0067b2; padding-left: 110px;padding-top: 45px;}
+.bluefooter a{color: #fff;font-size: 16px;margin-left: 20px;}
